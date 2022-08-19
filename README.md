@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nox
-- 👀 I’m interested in Node.js, React.js, MongoDB, and GraphQL. OH and all things science! 
-- 🌱 I’m currently learning Redux and Flutter.
+- 👋 Hi, I’m nox
+- 👀 I work with Flutter, Node.js, React.js and MongoDB.
+- 🌱 I also love digital art, sculpting, animation and all things science!
 
 <!---
 nox-machina/nox-machina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
